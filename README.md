@@ -1,6 +1,6 @@
-# myapp
+# Primeiro Layout
 
-A new Flutter project.
+Sistema desenvolvido como critério avaliativo, a fim de obter conhecimentos advindos à disciplina Desenvolvimento Web.
 
 ## Getting Started
 
